@@ -1,0 +1,5 @@
+target/
+bin/
+.allure/
+.idea/
+archivo_solo_repo_local.txt
