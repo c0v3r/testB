@@ -33,7 +33,9 @@ public class AppTest
      */
     public void testApp()
     {
+        System.out.println("tomas");
         System.out.println("primer cambio");
         assertTrue( true );
+        System.out.println("hernan");
     }
 }
